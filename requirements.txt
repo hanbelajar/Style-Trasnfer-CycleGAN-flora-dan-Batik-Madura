@@ -2,4 +2,4 @@ torch
 torchvision
 Pillow
 numpy
-!pip install opencv-python
+opencv-python==4.4.0.44
