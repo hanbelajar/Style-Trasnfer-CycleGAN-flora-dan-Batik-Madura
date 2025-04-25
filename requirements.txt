@@ -1,5 +1,6 @@
+streamlit
 torch
 torchvision
-Pillow
 numpy
-opencv-python==4.4.0.44
+opencv-python
+Pillow
